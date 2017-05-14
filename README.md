@@ -6,7 +6,7 @@ Para jugar, hacer click sobre el botón run de la parte inferior de la pantalla.
 Teclas jugador 1:
 
 W - Saltar
-A - Mover izquierda
+A - Mover izquierda\n
 S - Agacharse
 D - Mover derecha
 J - Puñetazo
