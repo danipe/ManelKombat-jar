@@ -23,11 +23,17 @@ L - Especial
 Teclas jugador 2:
 
 Arriba - Saltar
+
 Izquierda - Mover izquierda
+
 Abajo - Agacharse
+
 Derecha - Mover derecha
+
 1 - Puñetazo
+
 2 - Patada
+
 3 - Especial
 
 
