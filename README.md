@@ -37,7 +37,7 @@ Derecha - Mover derecha
 3 - Especial
 
 
-Una vez los dos jugadores tienen claro su personaje pulsar W para empezar la lucha.
+Una vez los dos jugadores tienen claro su personaje pulsar W para empezar la pelea.
 
 
 Si surge cualquier hacer click en el botón reset de la parte inferior de la pantalla.
